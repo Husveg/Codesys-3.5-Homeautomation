@@ -1,0 +1,54 @@
+
+
+
+
+SSH til kontroller 
+
+
+
+Powershell 
+kommando:
+ssh root@192.168.10.161
+PW: wago -- liten (w) i wago.<<
+
+
+Tips !
+Endre lagrings plass for docker image.
+flytt til deg til rett plass i fil struktur.
+cd /etc/docker/
+
+kommando 
+ls
+viser filer
+
+
+nano deamon.js
+- redigerer fil
+
+endre data.root ifra home/docker til media/sd/docker.
+
+
+installere portainer
+docker run -d -p 9000:9000 --restart always --name portainer -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
+
+installere ? 
+
+
+Docker start portainer.
+ny bruker
+bruker navn : admin
+pw : WagoWagoWago
+
+
+adresse til portainer 192.168.154:9000
+
+
+Installere Mosquitto
+https://hub.docker.com/_/eclipse-mosquitto
+https://github.com/eclipse/mosquitto
+https://www.youtube.com/watch?v=L26JY2NH-Ys
+
+----
+https://www.youtube.com/watch?v=wX1qqRphuTE
+https://www.youtube.com/watch?v=DeTCT5Vyn28
+
