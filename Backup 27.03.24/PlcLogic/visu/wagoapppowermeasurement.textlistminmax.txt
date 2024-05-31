@@ -1,0 +1,10 @@
+Id;Default;de;en;fr;br
+0;Maximum Current;Maximaler Strom;Maximum Current;Courant Max;M xima Corrente
+1;Maximum Voltage;Maximale Spannung;Maximum Voltage;Tension Max;M xima TensÆo
+2;Maximum Power;Maximale Leistung;Maximum Power;Puissance Max;M xima Potencia
+3;Maximum Frequency;Maximale Frequenz;Maximum Frequency;Fréquence Max;M xima Frequencia
+4;Minimum Current;Minimaler Strom;Minimum Current;Courant Min;M¡nima  Corrente
+5;Minimum Voltage;Minimale Spannung;Minimum Voltage;Tension Min;M¡nima  TensÆo
+6;Minimum Power;Minimale Leistung;Minimum Power;Puissance Min;M¡nima  Potencia
+7;Minimum Frequency;Minimale Frequenz;Minimum Frequency;Fréquence Min;M¡nima Frequencia
+;;;;;

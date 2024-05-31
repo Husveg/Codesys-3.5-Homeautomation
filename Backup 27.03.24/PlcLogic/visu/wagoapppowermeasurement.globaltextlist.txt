@@ -1,0 +1,329 @@
+Id;Default;de;en;pl;fr;br
+483;%.1f kVAh;;;;;
+1008;%.1f kVarh;;;;;
+839;%.1f kvarh;;;;;
+2863;%.1f kvarh ;;;;;
+94;%.1f kWh;;;;;
+3069;%.1f kWh ;;;;;
+7160;%.2f Hz;;;;;
+1556;%.3f kVA;;;;;
+240;%.3f kVA ;;;;;
+341;%.3f kvar;;;;;
+445;%.3f kvar ;;;;;
+1579;%.3f kvarh;;;;;
+789;%.3f kW;;;;;
+286;%.3f kW ;;;;;
+834;%.3f kWh;;;;;
+2862;%3.3f;;;;;
+1636;1: active & reactive$R$N2: forward & reverse;;;;;
+936;1:active&reactive;;;;;
+1679;Address;;;;;
+3068;Baudrate;;;;;
+227;Configuration;;;;;
+1314;Configuration 0879-3000 3-Phase MID Energy Counter;Konfiguration 879-3000 3-Phasen MID Energie Zähler;;;;
+307;Configuration 0879-3xxx 3-Phase MID Energy Counter;;;;;
+1770;Counter;;;;;
+2082;CT primary;;;;;
+1602;CT secondary;;;;;
+1511;Day counter [kWh];;;;;
+321;Error code;Fehlercode;;;;
+1323;Forward effective energy;Lieferung Wirkenergie;;;;
+992;Forward reactive energy;Lieferung Blindenergie;;;;
+276;Grid frequency;Netzfrequenz;;;;
+886;Hallo;;;;;
+991;LCD cycle time [s];LCD Zykluszeit [s];;;;
+772;Modbus;;;;;
+52;No;;;;;
+2701;No, cancel;;;;;
+469;Parity;;;;;
+1184;Power down counter;Netzausfall Zähler;;;;
+2904;Reset;;;;;
+1121;Resettable day counter;Rücksetzbarer Tageszähler;;;;
+1604;Resolution 0.1 V (0.1 V bis 6553.5 V);Auflösung 0.1 V (0.1 V .. 6553.5 V);Resolution 0.1 V (0.1 V bis 6553.5 V);;résolvance 0.1 V (0.1 V ..6553.5 V);Resolucao 0.1 V (0.1 V at‚ 6553.5 V)
+1612;Resolution 1 V (1 V bis 65535 V);Auflösung 1 V (1 V .. 65535 V);Resolution 1 V (1 V bis 65535 V);;résolvance 1 V (1 V ..65535 V);Resolucao 1 V (1 V at‚ 65535 V)
+1407;Reverse effective energy;Bezug Wirkenergie;;;;
+1411;Reverse reactive energy;Bezug Blindenergie;;;;
+17;Rotation;Drehfeld;Rotation;;Rotation;Rotacao
+1;  Phase L1;Phase L1;Phase L1;;Phase L1;Fase L1
+0;  Phase L1-L3;Phase L1-L3;Phase L1-L3;;Phase L1-L3;Fase L1-L3
+12;  Phase L2;Phase L2;Phase L2;;Phase L2;Fase L2
+16;  Phase L3;Phase L3;Phase L3;;Phase L3;Fase L3
+2651; Average value;Mittelwert;;;;
+1638;  Rotating Field;Drehfeld;Rotating Field;;;Rotacao Fases
+2632; Maximum;;;;;
+2612; Minimum;;;;;
+1646; Current L1;Strom L1;Current L1;;Courant  L1;Corrente L1
+2661; Current L2;Strom L2;Current L2;;Courant  L2;Corrente L2
+914; Current L3;Strom L3;Current L3;;Courant  L3;Corrente L3
+1957; Frequency;Frequenz;Frequency;;Fréquence;Frequencia
+132; Mode of operation;Modus;Mode;;Mode;Modo
+2622; Overcurrent;Ueberstrom;Overcurrent;;;Sobrecorrente
+1614; Peak values Lx;Spitzenwerte Lx;Peak values Lx;;;Valores de Pico Lx
+133; Register values L1;Register Werte L1;Register values L1;;Valeurs du registre L1;Valores de Registro L1
+134; Register values L2;Register Werte L2;Register values L2;;Valeurs du registre L2;Valores de Registro L2
+135; Register values L3;Register Werte L3;Register values L3;;Valeurs du registre L3;Valores de Registro L3
+2642; RMS value;Mittelwert;RMS value;;;Valores RMS
+137; Sampling time;Abtastrate;Sampling time;;Temps d$'échantillonnage;Amostra de Tempo
+138; Status Configuration;Status Konfiguration;Status configuration;;Statuts de configuration;Status de configuracao
+2035; Voltage;Spannung;;;;
+121;!;;;;;
+139;%;;;;;
+2708;%.1f;;;;;
+152;%.1f VAh;;;;;
+151;%.1f varh;;;;;
+2079;%.1f varh ;;;;;
+150;%.1f Wh;;;;;
+2052;%.1f Wh ;;;;;
+146;%.2f;;;;;
+1620;%.2f A ;;;;;
+142;%.2f V;;;;;
+1202;%.2f V ;;;;;
+145;%.2f VA;;;;;
+13;%.2f VA ;;;;;
+144;%.2f var;;;;;
+6;%.2f var ;;;;;
+143;%.2f W;;;;;
+4;%.2f W ;;;;;
+148;%.3f;;;;;
+57;%.3f A;;;;;
+376;%.3f A ;;;;;
+147;%.3f Hz;;;;;
+1718;%.3f HZ ;;;;;
+1732;%.3f Hz ;;;;;
+1146;%0.2f nH;;;;;
+1136;%0.2f Ohm;;;;;
+1765;%0.2f µH;;;;;
+164;%3.0f;;;;;
+189;%4.1f A;;;;;
+158;%4.4f Wh/LSB;;;;;
+60;%d;;;;;
+173;%d$R$Nhalf waves;%d$R$NHalbwellen;%d$R$Nhalf waves;;%d $R$Ndemi-onde;%d$R$Nmeia-onda
+205;%d ;;;;;
+49;%d $R$Nhalf waves;%d $R$NHalbwellen;%d $R$Nhalf waves;;%d $R$Ndemi-onde;%d$R$Nmeia-onda
+114;%d * 0,1V;;;;;
+116;%d ms;;;;;
+191;%d mV;;;;;
+149;%d s;;;;;
+96;%s;;;;;
+64;%s Wh;;;;;
+2413;%s Wh/varh/VAh;;;;;
+74;%u;;;;;
+1637;* %s V;;;;;
+1645;/;;;;;
+209;0 bis 24000;;;;;
+66;0..24000;;;;;
+153;0:RT500$R$N1:RT2000$R$N2:RC70$R$N3:RC125$R$N4:RC175;;;;;
+90;50;;;;;
+211;6 .. 254;;;;;
+210;6 bis 254;;;;;
+68;6..254;;;;;
+91;60;;;;;
+51;60..255;;;;;
+105;Cancle;Abbrechen;Cancle;;Annuler;Cancela
+472;Active Energy;Wirkenergie;Active Energy;;Energie efficace;Energia Ativa
+467;Active Power;Wirkleistung;Active Power;;Puissance efficace;Potencia Ativa
+104;Activate;Aktivieren;Activate;;Activer;Ativar
+122;All configuration parameters $R$Nwill be set to factory default;Alles Konfigurationsparameter;All configuration parameter;;Tous les paramètres;Todos os parametros de configuracao
+129;All min. max. values;Alle Min/Max. Werte;All min/max values;;Toutes les valeurs Min/Max;Todos valores min/max
+100;Delete all min/max  values;Alle Min/Max. Werte löschen;Delete all min/max  values;;Supprimer tous les Min/Max;Deleta todos valores min/max
+838;Delete all;Alle löschen;Delete all;;Tout supprimer;Deleta tudo
+581;S0 output rate [imp/kWh];S0 Ausgang [imp/kWh];;;;
+1877;S0 pulse type;;;;;
+882;S0 pulse width [ms];;;;;
+1205;Save all;Alle speichern;Save all;;;Salva tudo
+78;Customer scaling;Anwenderskalierung;Customer scaling;;Echelle utilisateur;Escala do usuario
+177;Apparent Power;Scheinleistung;Apparent power;;Puissance apparante;Potencia aparente
+113;Automatic deleting of min.- and max. values;Automatische Löschung der Min/Max-Werte;Automatic deleting of min/max  values;;Suppression Auto Min/Max;Deleta automatico valores min/max
+70;Automatically reset;Automatisches Rücksetzen;Automatically reset;;Remise à zéro auto;Reset Automatico
+208;Average Calculation$R$NInterval;Mittelwertberechnung [s];Calculation of average value [s];;Calcul de la valeur moyenne [s];Calculo de valores medios [s]
+67;Mode;Betriebsart;Mode;;Mode;Modo
+10;Reactive energy;Blindenergie;Reactive energy;;Energie réactive;Energia reativa
+5;Reactive power;Blindleistung;Reactive power;;Puissance réactive;Potencia reativa
+2345;Reactive power [*0.001%];Blindleistung [*0.001%];;;;
+154;Reactive power [var];Blindleistung [var];Reactive power [var];;Puissance réactive [var];Potencia reativa [var]
+199;Cancel;Abbruch;Cancel;;Annuler;Cancela
+136;Configuration 3-Phase Power Measurement Module 750-493;Konfiguration 3-Phasen Leistungsmessklemme 750-493;Configuration 3-Phase Power Measurement Module  750-494;;Configuration du module de mesure de puissance 750-494;Configuracao Modulo 3-Fases Modulo Medicao de 
+118;Configuration 750-493;Konfiguration 750-493;Configuration 750-493;;Configuration 750-493;Configuracao 750-493
+155;Configuration 750-494/000-005 - 3-Phase Power Measurement Module Shunt;Konfiguration 750-494/000-005 Shunt Modul;Configuration 750-494/000-005 Shunt Module;;Configuration 750-494/000-005 (shunt);Configuracao 750-494/000-005 Modulo Shunt
+25;cos phi;cos phi;cos phi;;Cos phi;Cos phi
+190;Current;Strom;Current;;Courant;Corrente
+1626;Current L%s;Strom L%s;Current L%s;;Courant L%s;Corrente L%s
+123;DC filter is bypassed;DC Filter ist gebrückt;DC filter is pybassed;;Filtre DC désactivé;Filtro DC inibido
+880;Enable DC measurement;DC-Messung aktivieren;Enable DC measurement;;Activer la mesure DC;Habilita medicao DC
+124;Delete;Löschen;Delete;;Supprimer;Deleta
+196;Delete All;Alles löschen;Delete all;;Tout supprimer;Deleta tudo
+187;Delete All Min/Max Values;Alle Min/Max Werte löschen;Delete all Min/Max values;;Supprimer toutes les valeurs min/max;Deleta todos valores  Min/Max
+165;Delete Automatically;Automatisch löschen;Delete automatically;;Supprimer auto.;Deleta automatico
+131;Delete measured values;Messwerte löschen;Delete measured values;;Supprimer les valeurs mesurées;Deleta valores medidos
+186;Delete Min/Max Values;Min/Max Werte löschen;Delete Min/Max values;;Supprimer les valeurs Min/Max;Deleta valores  Min/Max
+175;Effective Power;Wirkleistung;Effective power;;Puissance active;Potencia Ativa
+160;Enable DC Measurement;DC Messung freigeben;Enable DC measurement;;Activer la mesure DC;Habilita medicao DC
+182;Enable Watchdog;Watchdog aktivieren;Enable watchdog;;Activer surveillance;Habilita watchdog
+62;Power meter;Energiezähler;Power meter;;Mesure puissance;Medidor potencia
+1281;Set energy counter ?;Energiezähler setzen?;Set energy counter ?;;;Grava contador energia ?
+108;Reset energy counter ?;Energiezähler zurücksetzen?;Reset energy counter ?;;Remise à zéro du compteur d$'énergie ?;Reseta contador energia ?
+130;Energy consumption;Energiezähler;Energy consumption;;Consommation d$'énergie$R$N;Consumo de energia
+188;Energy Consumption;Energiezähler;Energy consumption;;Consommation d$'énergie;Consumo de energia
+112;Energy consumption measurement inverted;Energieverbrauchsmessung invertiert;Energy consumption measurement inverted;;Mesure de la consommation d$'énergie inversée;Medicao do consumo de energia invertido
+157;Energy Logging Interval;Intervall Datenerfassung;Energy logging interval;;Interval d$'enregistrement de l$'énergie;Intervalo gravacao energia
+156;Energy Meter;Energiezähler;Energy meter;;Compteur d$'énergie;Medicao energia
+876;Additional settings;Erweiterte Einstellungen;Additional settings;;l$'ajustage additionnel;Configuracoes adicionais
+174;Factor No-Load Condition;Schwellwerte Energiemessung;Factor No-Load condition;;Facteur sans charge;Fator de sem carga
+119;Factory settings;Werkseinstellungen;Factory settings;;Paramètres usine;Padrao de fabrica
+185;Factory Settings;Werkseinstellung;Factory settings;;Paramètres usine;Padrao de fabrica
+56;Fault current detection;Fehlerstromerkennung;Fault current detection;;Détection erreur courant;Deteccao de erro de corrente
+1965;Frequency L1;Frequenz L1;;;;
+1972;Frequency L1 max;Frequenz L1 max;;;;
+1980;Frequency L1 min;Frequenz L1 min;;;;
+1988;Frequency L2;Frequenz L2;;;;
+1996;Frequency L2 max;Frequenz L2 max;;;;
+2003;Frequency L2 min;Frequenz L2 min;;;;
+2019;Frequency L3;Frequenz L3;;;;
+2011;Frequency L3 max;Frequenz L3 max;;;;
+2027;Frequency L3 min;Frequenz L3 min;;;;
+26;Frequency;Frequenz;Frequency;;Fréquence;Frequencia
+688;Function block not enabled;Baustein nicht freigegeben;Function block not enabled;;;Bloco de funcao nao habilitado
+1141;Mutual inductance;Gegeninduktivität;Mutual inductance;;Inductance mutuelle;Indutancia mutua
+194;General;Allgemein;General;;Général;Geral
+46;Green ->OK$R$NRed ->Error;Grün->OK;Green ->OK;;Vert -> OK;Verde ->OK
+92;Hz;;;;;
+41;I;;;;;
+38;II;;;;;
+40;III;;;;;
+1131;Internal resistance;Innenwiderstand;Internal resistance;;Résistance interne;Resistencia interna
+1007;Input in [0.001 %]$R$Ne.g. 4400 ->4.4%;Eingang in [0.001 %];;;;
+39;IV;;;;;
+32;None zero;Kein Null;None zero;;Non nul;Nao zero
+140;Configuration 2857-0570 3-Phase Power Transducer;Konfiguration 2857-0570 3-Phasen Power Transducer;Configuration 2857-0570 3-Phase Power Transducer;;Configuration 2857-0570 3-Phase Power Transducer;Configuracao 2857-0570 3-Fases Transdutor de Energia
+61;Configuration 750-494 - 3-Phase Power Measurement Module;Konfiguration 750-494 - 3 Phasen Leistungsmessklemme;Configuration 750-494 - 3-Phase Power Measurement Module;;Configuration 750-494 - Module de mesure de puissance 3 phases;Configuracao 750-494 - 3-Fases Modulo Medicao de Energia
+557;Configuration 750-494 - 3-Phase Power Measurement Module Shunt;Konfiguration 750-495 - 3 Phasen Leistungsmessklemme Shunt;Configuration 750-494 - 3-Phase Power Measurement Module Shunt;;Configuration 750-494 - Module de mesure de puissance 3 phases shunt;Configuracao 750-494 - 3-Fases Modulo Medicao de Energia Shunt
+50;Configuration 750-495 - 3-Phase Power Measurement Module;Konfiguration 750-495 - 3 Phasen Leistungsmessklemme;Configuration 750-495 - 3-Phase Power Measurement Module;;Configuration 750-495 - Module de mesure de puissance 3 phases;Configuracao 750-495 - 3-Fases Modulo Medicao de Energia
+2316;Configuration 750-495/040-010 - 3-Phase Power Measurement Module;Konfiguration 750-495/040-010 - 3-Phasen Leistungsmessklemme;;;;
+19;L;;;;;
+79;L%d;;;;;
+86;L1;;;;;
+1207;L1-L2;;;;;
+34;L1:;;;;;
+87;L2;;;;;
+1213;L2-L3;;;;;
+35;L2:;;;;;
+88;L3;;;;;
+2284;L3-L1;;;;;
+36;L3:;;;;;
+8;Efficiency factor PF;Leistungsfaktor PF;Efficiency factor PF;;Facteur puissance FP;Fator de eficiencia PF
+125;Maximum current;Maximaler Strom;Maximum current;;Courant Max;Corrente Maxima
+127;Maximum voltage;Maximale Spannung;Maximum voltage;;Tension Max;Tensao Maxima
+117;Measuring cycle period:;Messintervall:;Measuring cycle period:;;Période de mesure de cycle;Periodo do ciclo de medicao:
+531;Nettopology;Messtopologie;Nettopology;;Topologie réseau;Topologia de rede
+198;Min/Max Value;Min/Max Wert;Min/Max value;;Valeur Min/Max;Valor Min/Max
+179;Min/Max Values;Min/Max Werte;Min/Max values;;Valeurs Min/Max;Valores Min/Max
+82;Min/Max values;Min/Max Werte;Min/Max values;;Valeurs Min/Max;Valores Min/Max
+98;Delete min/max values;MIn/Max Werte löschen;Delete min/max values;;Supprimer valeurs Min/Max;Deleta valores min/max
+126;Minimum current;Minimaler Strom;Minimum current;;Courant Min;Corrente minima
+128;Minimum voltage;Minimale Spannung;Minimum voltage;;Tension Min;Tensao minima
+75;Calculation of average$R$Nvalue [s];Mittelwertberechnung [s];Calculation of average$R$Nvalue [s];;Calcul de la moyenne;Calculo do valor medio$R$N [s]
+59;Mode of operation;Betriebsart;Mode of operation;;Mode de fonctionnement;Modo de operacao
+178;Monitoring Intervals;Überwachungsintervall;Monitoring interval;;Période de surveillance;Intervalo de monitoracao
+53;N;;;;;
+1661;Nominal voltage;Nennspannung;Nominal voltage;;Tension nominal;Tensao nominal
+1653;Nominal current;Nennstrom;Nominal current;;Courant nominal;Corrente nominal
+3071;Settings;Einstellungen;;;;
+120;Status;;;;;
+1344;Status code;;;;;
+89;Supply frequency;Netzfrequenz;Supply frequency;;Fréquence réseau;Frequencia de rede
+1941;NoZero;;;;;
+106;OK;;;;;
+161;Operation Mode;Betriebsart;Operation mode;;Mode de fonctionnement;Modo de operacao
+202;Overcurrent [0.1 mA];Überstrom [0.1 mA];Overcurrent [0.1 mA];;Surintensité [0.1 mA];Sobrecorrente [0.1 mA]
+203;Overvoltage [0.1 V];Überspannung [0.1 V];Overvoltage [0.1 V];;Surtension [0.1 mA];Sobretensao [0.1 V]
+44;P+;;;;;
+43;P-;;;;;
+172;Peak Value Interval;Spitzenwertmessung;Peak value interval;;Période de valeur de crête;Valor de intervalo de pico
+85;Phase;Phase;Phase;;Phase;Fase
+162;Phase for Peak Value;Phase für Spitzenwertmessung;Phase for peak value;;Phase pour la valeur Max;Fase para valor de pico
+45;Please enable function block;Funktionsblock freigeben;Please enable function block;;Merci d$'activer le bloc fonctionnel;Por favor habilite o bloco de funcao
+195;Power Meter;Energiezähler;Power meter;;Mesure puissance;Medidor Potencia
+181;Power Supply Frequency;Netzfrequenz;Power supply frequency;;Fréquence réseau;Frequencia de rede
+1621;primary;primär;primary;;primaire;primario
+37;Q+;;;;;
+42;Q-;;;;;
+18;R;;;;;
+474;Reactive Energy;Blindenergie;Reactive energy;;Energie réactive;Energia reativa
+176;Reactive Power;Blindleistung;Reactive power;;Puissance réactive;Potencia reativa
+110;Read configuration;Konfiguration lesen;Read configuration;;Lire la configuration;Le Configuracao
+183;Read Configuration;Konfiguration lesen;Read configuration;;Lire la configuration;Le Configuracao
+109;Register values;Registerwerte;Register values;;Valeurs registre;Grava valores
+200;Reset all module parameters to factory defaults?;Alle Werte auf Werkseinstellung ?;Reset all module parameters to factory defaults?;;Remise à zéro des paramètres ?;Reseta todos os parametros do modulo para padrao?
+206;Reset Interval [200 ms];Rücksetzintervall [200ms];Reset interval [200 ms];;Période de remise à zéro [200 ms];Intervalo de reset [200 ms]
+201;Reset the energy meter?;Energiemessung zurücksetzen?;Reset the energy meter?;;Remise à zéro du compteur d$'énergie ?;Reseta medidor de energia?
+602;Reset-Intervall [ * 200 ms];Rücksetzintervall [200ms];Reset interval [200 ms];;Période de remise à zéro [200 ms];Intervalo de reset [200 ms]
+1871;Reset-Intervall [ s];;;;;
+1120;Rogowski coil type;Rogowski Spule Typ;Rogowski coil type;;Type de boucle Rogowski;Tipo bobina de Rogowski
+197;Save;Sichern;Save;;Sauvegarder;Salva
+159;Scaling Factor;Skalierungsfaktor;Scaling factor;;Facteur de mise à l$'échelle;Fator de escala
+11;Apparent energy;Scheinenergie;Apparent energy;;Energie apparante;Energia Aparente
+7;Apparent power;Scheinleistung;Apparent power;;Puissance apparante;Potencia aparente
+705;Apparent power [*0.001%];Scheinleistung [*0.001%];;;;
+163;Apparent power [VA];Scheinleistung [VA];Apparent power [VA];;Puissance apparante [VA];Potencia aparente [VA]
+1339;Close;Schließen;Close;;Fermer;Fecha
+2624;Tarife;;;;;
+1924;Tariffe;;;;;
+1261;The connection will be lost afterwards. $R$NAre you sure?;;;;;
+2760;The connection will be lost afterwards. $R$NWrite?;;;;;
+2510;The connection will be lost afterwards. Are you sure?;;;;;
+2600;The connection will be lost. Are you Sure;;;;;
+1717;The connection will be lost. Are you Sure?;;;;;
+2970;The connection will be lost. Are you sure?;;;;;
+83;Threshold;Schwellenwerte;Threshold;;Seuil;Limite
+654;Threshold fault current detection ;Schwellwert Fehlerstromerkennung;Threshold fault current detection ;;Seuil d$'erreur courant ;Deteccao de limite de falha de corrente
+1152;Threshold fault current detection [ 0.1 mA];Schwellwert Fehlerstromerkennung [ * 0.1 mA];Threshold fault current detection [ 0.1 mA];;Seuil d$'erreur courant [ 0.1 mA];Deteccao de limite de falha de corrente [ 0.1 mA]
+80;Threshold energy measurement;Schwellwert Energiemessung;Threshold energy measurement;;Seuil mesure d$'énergie;Limite de medicao de energia
+1629;secondary;sekundär;secondary;;secondaire;Secundario
+683;Set;Setzen;Set;;Poser;Grava
+193;Shunt Resistor(s);Shunt;Shunt resistor;;Résistance de shunt;Resistencia Shunt
+1332;Shunt resistor;Shunt Widerstand;Shunt resistor;;Résistance de shunt;Resistencia Shunt
+65;Scaling factor for energy measurement;Skalierungsfaktor für Energiemessung;Scaling factor for energy measurement;;Ratio pour mesure d$'énergie;Fator de escala para medidor de energia
+54;Other;Sonstiges;Other;;Autre;Outro
+722;Total effective energy;Gesamt Wirkenergie;;;;
+1368;Total reactive energy;Gesamt Blindenergie;;;;
+22;Voltage L -N;Spannung L - N;Voltage L -N;;Tension L-N;Tensao L -N
+1596;Voltage transformer;Spannungswandler;Voltage transformer;;Transformateur de tension;Transformador de Tensao
+63;Saving interval [s];Speicherintervall [s];Saving interval [s];;Période de sauvegarde [s];Intervalo de gravacao [s]
+33;Voltage drop;SpgEinbr;Voltage drop;;Chute de tension$R$N;Queda de tensao
+76;Peak value measurement;Spitzenwertmessung;Peak value measurement;;Valeur de crête;Medicao de valor de pico
+212;Peak value measurement phase;Spitzenwertmessung;Peak value measurement phase;;Valeur de crête phase;Medicao de valor de pico da fase
+1125;Coil type;Spule Typ;Coil type;;Type;Tipo bobina
+55;Neutral conducter current;Strom Neutralleiter;Neutral conducter current;;Courant dans le neutre;Condutor de corrente de neutro
+103;Current transformer ratio;Stromwandlerverhältnis;Current transformer ratio;;Ratio TI;Razao de transformacao
+180;Thresholds;Schwellwerte;Thresholds;;Seuils;Limites
+115;Time for deleting min / max values: ;Zeit bis zum Löschen der min / max Werte;Time for deleting min/max values;;Période suppression valeurs min/max;Tempo para deletar valores min/max
+58;Undervoltage threshold:;Unterspannungsschwellwert:;Undervoltage threshold;;Seuil de bas tension;Limite de Subtensao
+204;Undervoltage [0.1 V];Unterspannung [0.1 V];Undervoltage [0.1 V];;Sous-tension [0.1V];Subtensao [0.1 V]
+23;Undervoltage;Unterspannung;Undervoltage;;Sous-tension;Subtensao
+71;Undervoltage [ * 0.1 V];Unterspannung [0.1 V];Undervoltage [ * 0.1 V];;Sous-tension [* 0,1 V];Subtensao [ * 0.1 V]
+1446;Undervoltage [V];Unterspannung [V];;;;
+192;Voltage;Spannung;Voltage;;Tension;Tensao
+1632;Voltage %s;Spannung;Voltage;;Tension;Tensao
+1949;VoltSag;;;;;
+93;Activate watchdog;Watchdog aktivieren;Activate watchdog;;Activer Surveillance;Ativar watchdog
+107;Restore factory settings?;Werkseinstellung wiederherstellen?;Restore factory settings?;;Restaurer les paramètres usine?;Restaurar padrao de fabrica?
+9;Effective energy;Wirkenergie;Effective energy;;Energie efficace;Energia Efetiva
+3;Effective power ;Wirkleistung;Effective power ;;Puissance efficace;Potencia Efetiva
+468;Effective power [*0.001%];Wirkleistung [*0.001%];;;;
+141;Effective power  [W];Wirkleistung [W];Effective power  [W];;Puissance efficace [W];Potencia Efetiva  [W]
+111;Write configuration;Konfiguration schreiben;Write configuration;;Ecrire la configuration;Grava Configuracao
+184;Write Configuration;Konfiguration schreiben;Write configuration;;Ecrire la configuration;Grava Configuracao
+1982;Write modbus configuration;;;;;
+1560;Yes;;;;;
+1868;[*0.1 mA];;;;;
+2853;[1..254] ;;;;;
+778;[1..4];;;;;
+1448;[2..99] ms;;;;;
+1784;[A];;;;;
+24;Overvoltage;Überspannung;Overvoltage;;Surtension;Sobretensao
+72;Overvoltage [ * 0.1 V];Überspannung [* 0.1 V];Overvoltage [ * 0.1 V];;Surtension [* 0,1 V];Sobretensao [ * 0.1 V]
+377;Overvoltage [V];Überspannung [V];;;;
+21;Overcurrent;Überstrom;Overcurrent;;Surintensité;Sobrecorrente
+73;Overcurrent [ * 0.1 mA];Überstrom [* 0.1 mA];Overcurrent [ * 0.1 mA];;Surintensité [* 0,1 mA];Sobrecorrente [ * 0.1 mA]
+2064;Overcurrent [A];Überstrom [A];;;;
+81;Monitoring interval;Überwachungsintervall;Monitoring interval;;Période de surveillance;Intervalo de monitoracao

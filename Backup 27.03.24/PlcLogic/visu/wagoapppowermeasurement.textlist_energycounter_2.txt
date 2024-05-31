@@ -1,0 +1,17 @@
+Id;Default;de;en;fr;br
+0;Active Energy Total;Wirkenergie Gesamt ;Active Energy Total;Energie apparante totale;Energia Ativa Total
+1;Reactive Energy Total;Blindenergie Gesamt ;Reactive Energy Total;Energie apparante totale;Energia Reativa Total
+2;Apparent Energy Total;Scheinenergie Gesamt;Apparent Energy Total;Energie apparante totale;Energia Aparente Total
+13;None;Reserve;None;None;None
+12;None;Reserve;None;None;None
+11;None;Reserve;None;None;None
+10;None;Reserve;None;None;None
+9;None;Reserve;None;None;None
+8;None;Reserve;None;None;None
+7;None;Reserve;None;None;None
+6;None;Reserve;None;None;None
+5;None;Reserve;None;None;None
+4;None;Reserve;None;None;None
+3;None;Reserve;None;None;None
+14;None;Reserve;None;None;None
+;;;;;

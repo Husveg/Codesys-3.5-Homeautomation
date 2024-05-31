@@ -1,0 +1,67 @@
+Id;Default
+73;
+6;%s
+39;1
+47;10
+48;11
+49;12
+50;13
+51;14
+52;15
+53;16
+54;17
+56;18
+57;19
+40;2
+58;20
+59;21
+60;22
+61;23
+62;24
+63;25
+64;26
+65;27
+66;28
+67;29
+41;3
+68;30
+69;31
+70;32
+42;4
+43;5
+44;6
+45;7
+46;8
+55;9
+37;Buttons
+34;Clear
+18;Clear all
+3;Clear Filter
+35;EnOcean ID
+29;EVC
+20;Filter
+32;Filter settings
+19;Gateway
+33;Learn
+4;Learn sensor button
+25;Learn sensor manually
+27;Learn sensor with Learning button
+7;Learning
+9;Learning $R$NMode
+8;Learning Mode
+11;Manually
+30;Master
+36;No.
+31;Parameters
+16;Read
+17;Read Config
+2;Read Param
+0;ReadFilter
+38;Sensor type
+12;Sensors in the filter list
+71;Sensors of the filter list
+15;Set
+1;Set Param
+5;Status
+28;Telegram repetition
+10;via sensor button

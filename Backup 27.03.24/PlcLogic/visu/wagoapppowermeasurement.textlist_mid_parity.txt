@@ -1,0 +1,5 @@
+Id;Default;en;de
+1;Even;Even;Gerade
+0;None;None;Keine
+2;Odd;Odd;Ungerade
+;;;

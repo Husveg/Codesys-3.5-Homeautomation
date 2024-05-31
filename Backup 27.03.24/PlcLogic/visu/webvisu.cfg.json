@@ -1,0 +1,17 @@
+
+{
+	"UpdateRate": 200,
+	"PlcAddress": "0354.1000.2DDC.C0A8.01A1",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "Visu_HAN_PORT",
+	"BestFit": true,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+	"HasKeyboard": false,
+	"TouchHandlingActive": false,
+	"HandleTouchEvents": true,
+	"ScaleTypeIsotropic": false,
+	"BestFitForDialogs": true,
+	"RuntimeVersion": "3.5.17.3"
+}

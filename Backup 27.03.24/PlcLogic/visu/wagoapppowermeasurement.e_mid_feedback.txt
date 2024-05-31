@@ -1,0 +1,13 @@
+Id;Default
+0;MID_Ready
+1;MID_ReadingSettings
+2;MID_WritingSettings
+3;MID_ErrorReadingSettings
+4;MID_ErrorWritingingSettings
+5;MID_ExecutingCommand
+6;MID_ErrorExecutingCommand
+7;MID_ErrorCommandValue
+8;MID_ErrorTimeout
+9;MID_ErrorCommunicationBase
+10;MID_SetUpCommunication
+;

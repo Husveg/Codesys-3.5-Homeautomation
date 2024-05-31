@@ -1,0 +1,17 @@
+Id;Default
+;bActiveEnergySupplyL1
+;bActiveEnergyDeliveryL1
+;bReactiveEnergyInductiveL1
+;bReactiveEnergyCapacitiveL1
+;bApparentEneryL1
+;bActiveEnergySupplyL2
+;bActiveEnergyDeliveryL2
+;bReactiveEnergyInductiveL2
+;bReactiveEnergyCapacitiveL2
+;bApparentEneryL2
+;bActiveEnergySupplyL3
+;bActiveEnergyDeliveryL3
+;bReactiveEnergyInductiveL3
+;bReactiveEnergyCapacitiveL3
+;bApparentEneryL3
+;

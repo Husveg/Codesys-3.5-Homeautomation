@@ -1,0 +1,10 @@
+Id;Default
+0;Min_Current
+1;Max_Current
+2;Min_Voltage
+3;Max_Voltage
+4;Min_ActivePower
+5;Max_ActivePower
+6;Min_Frequency
+7;Max_Frequency
+;

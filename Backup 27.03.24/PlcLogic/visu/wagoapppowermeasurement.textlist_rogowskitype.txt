@@ -1,0 +1,8 @@
+Id;Default;de;en;fr;br
+0;RT 500;RT 500;RT 500;RT 500;RT 500
+1;RT 2000;RT 2000;RT 2000;RT 2000;RT 2000
+2;RC 70;RC 70;RC 70;RC 70;RC 70
+3;RC 125;RC 125;RC 125;RC 125;RC125
+4;RC 175;RC 175;RC 175;RC 175;RC 175
+5;user defined;Anwenderdefiniert;user defined;Défini par l’utilisateur;Definido pelo usuario
+;;;;;

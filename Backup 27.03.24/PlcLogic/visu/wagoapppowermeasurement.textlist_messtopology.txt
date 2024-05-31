@@ -1,0 +1,6 @@
+Id;Default;de;en;fr;br
+0;4-wire wye;4-Leiter Stern;4-wire wye;4-wire wye;4-fios estrela
+1;3-wire wye/delta;3-Leiter Stern/Dreieck;3-wire wye/delta;3-wire wye/delta;3-fios estrela/triangulo
+2;4-wire wye, 2-phase;4-Leiter Stern, 2-Phasen;4-wire wye, 2-phase;4-wire wye, 2-phase;4-fios estrela , 2-fase
+3;Artificial star point;Künstlicher Sternpunkt;Artificial star point;point de neutre artificiel;Ponto neutro da  estrela artificial
+;;;;;

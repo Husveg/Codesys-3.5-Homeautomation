@@ -1,0 +1,13 @@
+Id;Default
+0;Ready
+1;Reading settings
+2;Writing settings
+3;Error while reading settings
+4;Error while writing settings
+5;Executing command
+6;Error while executing command
+7;Error command value
+8;Error timeout
+9;Error communication base
+10;Setup communication
+;

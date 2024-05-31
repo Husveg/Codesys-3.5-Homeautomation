@@ -1,0 +1,60 @@
+Id;Default
+663; Daily Kwh Consumption
+615; Daily kWh Consumption
+184; Daily Kwh Consumption := kWh
+244; Daily wh Consumption
+850; Total kWh 
+991; Total kWh Eksport
+955; Total kWh VP
+990;%.1i
+976;%.2f
+398;%12.2f
+276;%2.1f
+626;%3.2f
+21;%f
+469;%f.2
+369;%ms
+462;%t[HH:mm:ss]
+946;%t[ms]
+956;%t[s]
+300;Change page
+367;Clivet
+19;Clivet Rom Temp
+43;Clivet Vann Temp
+303;Current L1
+81;Current L2
+338;Current L3
+845;Date
+590;Div
+693;Elapsed Time VVB
+858;Fancoil Clivet
+547;Frekvens Hz
+258;HAN
+115;HAN PORT
+711;KVAR - Eksport _aktiv_Effekt
+70;KVAR - Eksport _Effekt
+34;KVar - Eksport _Effekt
+64;kVar - Import _KVAR_Effekt
+212;kW - Eksport _aktiv_Effekt
+255;kW - Import _aktiv_Effekt
+131;kW - Import _KVAR_Effekt
+119;kW Effekt
+582;Kwh 
+436;kWh forbruk 15 min
+73;kWh forbruk 60 min
+506;kWh forbruk denne timen
+879;kWh siste time
+311;Setpunkt varme
+796;Total Energi forbruk
+346;Total Energi forbruk := kWh
+538;Total Energy Consumed
+371;Total Energy Consumption := kWh
+125;Varmpumpe bilde_aktiv_Effekt
+592;Varmpumpe NIBE 1255
+294;Varmpumpe NIBE S1255
+746;Vifte Hastighet
+325;Voltage L1
+954;Voltage L2
+671;Voltage L3
+873;VVB
+625;VVB  Tilførsel

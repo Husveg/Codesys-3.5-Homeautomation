@@ -1,0 +1,13 @@
+Id;Default
+0;PT_Ready
+1;PT_ReadingSettings
+2;PT_WritingSettings
+3;PT_ErrorReadingSettings
+4;PT_ErrorWritingingSettings
+5;PT_ExecutingCommand
+6;PT_ErrorExecutingCommand
+7;PT_ErrorCommandValue
+8;PT_ErrorTimeout
+9;PT_ErrorCommunicationBase
+10;PT_SetUpCommunication
+;

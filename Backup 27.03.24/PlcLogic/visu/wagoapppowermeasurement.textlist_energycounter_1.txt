@@ -1,0 +1,17 @@
+Id;Default;de;en;fr;br
+0;Active Energy Incoming L1;Wirkenergie Bezug L1;Active Energy Incoming L1;Energie efficace absorbée L1;Energia Ativa consumida L1
+1;Active Energy Delivered L1;Wirkenergie Lieferung L1;Active Energy Delivered L1;Energie efficace livraison L1;Energia Ativa gerada L1
+2;Active Energy Incoming L2;Wirkenergie Bezug L2;Active Energy Incoming L2;Energie efficace absorbée L2;Energia Ativa consumida L2
+3;Active Energy Delivered L2;Wirkenergie Lieferung L2;Active Energy Delivered L2;Energie efficace livraison L2;Energia Ativa gerada L2
+4;Active Energy Incoming L3;Wirkenergie Bezug L3;Active Energy Incoming L3;Energie efficace absorbée L3;Energia Ativa consumida L3
+5;Active Energy Delivered L3;Wirkenergie Lieferung L3;Active Energy Delivered L3;Energie efficace livraison L3;Energia Ativa gerada L3
+6;Reactive Energy Inductive L1;Blindenergie Induktiv L1;Reactive Energy Inductive L1;Energie réactive inductif L1 ;Energia Reativa Indutiva L1
+7;Reactive Energy Capacitive L1;Blindenergie Kapazitiv L1;Reactive Energy Capacitive L1;Energie réactive capacitif L1;Energia Reativa Capacitiva L1
+8;Reactive Energy Inductive L2;Blindenergie Induktiv L2;Reactive Energy Inductive L2;Energie réactive inductif L2;Energia Reativa Indutiva L2
+9;Reactive Energy Capacitive L2;Blindenergie Kapazitiv L2;Reactive Energy Capacitive L2;Energie réactive capacitif L2;Energia Reativa Capacitiva L2
+10;Reactive Energy Inductive L3;Blindenergie Induktiv L3;Reactive Energy Inductive L3;Energie réactive inductif L3;Energia Reativa Indutiva L3
+11;Reactive Energy Capacitive L3;Blindenergie Kapazitiv L3;Reactive Energy Capacitive L3;Energie réactive capacitif L3;Energia Reativa Capacitiva L3
+12;Apparent Energy L1;Scheinenergie L1;Apparent Energy L1;Energie apparante L1;Energia Aparente L1
+13;Apparent Energy L2;Scheinenergie L2;Apparent Energy L2;Energie apparante L2;Energia Aparente L2
+14;Apparent Energy L3;Scheinenergie L3;Apparent Energy L3;Energie apparante L3;Energia Aparente L3
+;;;;;
